@@ -6,3 +6,7 @@ h1{
 .hide{
     display: none;
 }
+
+h1{
+    color: blue;
+}
